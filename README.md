@@ -6,3 +6,7 @@ These are the predictions and explanation provided by the model
 
 Comparing different Analysis Method 
 ![](images/LRP.png) 
+
+Last Conv layer output from different model
+![](images/heatmap.png)
+
